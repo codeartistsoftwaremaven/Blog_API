@@ -1,0 +1,9 @@
+.env
+.venv
+.git
+__pycache__
+.pytest_cache
+*.db
+*.db-shm
+*.db-wal
+.chapter15-backups
